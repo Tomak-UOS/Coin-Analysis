@@ -5,7 +5,7 @@
     1. 기존의 DPoS와 ARK의 DPoS 차이
     2. DPoS 합의 알고리즘의 장점
     3. DPoS 합의 알고리즘의 단점
- 2.ARK의 Smart Bridge
+ 2. ARK의 Smart Bridge
     1. Smart Bridge 개념
     2. ARK의 Smart Bridge 효용
     3. ARK의 Smart Bridge 한계
@@ -49,7 +49,7 @@ ARK는 이런 기존의 DPOS를 응용하고 개선하여 아래와 같은 특�
 2. 투표를 받기 위한 공약에는 충분히 거짓 내용이 포함될 수 있기 때문에, 투표자들을 선동하여 잘못된 대표자에게 투표가 이루어질 수 있음
 3. PoW, PoS와 마찬가지로 Sybil Attack에 대한 근본적인 해결책은 없음
 
-## 2.ARK의 Smart Bridge
+## 2. ARK의 Smart Bridge
 
 ### 1. Smart Bridge 개념
 ARK의 Smart Bridge는 서로 다른 블록체인을 ARK에 링크한다. 이 링크 된 블록체인은 다양한 메시지를 전송할 수 있다. 다른 토큰을 보낼 수 있다.
@@ -59,7 +59,7 @@ ARK에서는 'Vendor Field'라는 데이터 섹션과,  'Encoded Listener'라는
 ### 2. ARK의 Smart Bridge 효용
 블록체인을 링크시켜 서로의 메시지를 주고 받을 수 있다는 것은 매우 큰 장점이다. 또 다른 기술인 ACES(Ark Contract Execution Services)를 이용해서 이더리움의 스마트 컨트랙트를 가능하게 할 수 있는데, 이는 ARK는 다른 플랫폼 블록체인과 연결되었을 경우, 다양한 플랫폼 형태를 제공할 수 있다는 뜻이다.
 
-### 3.ARK의  Smart Bridge 한계
+### 3. ARK의  Smart Bridge 한계
 ARK의 Smart Bridge 기술에는 4가지 한계점이 있다.
 
 1. ARK는 현재 Javascript로 구현되었고, 그 특성상 간단한 개발에 최적화 되어있고, 다른 언어보다 성능이 떨어진다.
